@@ -1,0 +1,8 @@
+opencv-python
+numpy
+matplotlib
+mahotas
+scikit-image
+scipy
+tensorflow==1.15.5
+keras==2.3.1
